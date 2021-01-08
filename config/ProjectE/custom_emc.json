@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {
+      "item": "minecraft:torch|0",
+      "emc": 20
+    },
+    {
+      "item": "minecraft:furnace|0",
+      "emc": 8
+    },
+    {
+      "item": "projecte:item.pe_covalence_dust|0",
+      "emc": 24
+    },
+    {
+      "item": "minecraft:wooden_pickaxe|0",
+      "emc": 32
+    },
+    {
+      "item": "extrautils2:ingredients|1",
+      "emc": 280
+    },
+    {
+      "item": "extrautils2:ingredients|0",
+      "emc": 1280
+    }
+  ]
+}
