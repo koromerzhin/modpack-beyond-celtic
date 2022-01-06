@@ -1,7 +1,0 @@
-[01:07:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server Backup started!
-[01:07:42] [File IO Thread/INFO] [FTB Backups]: Deleting backup to free space: 2020-09-21-23-07-42.zip
-[01:07:42] [File IO Thread/INFO] [FTB Backups]: Backing up 368 files...
-[01:07:42] [File IO Thread/INFO] [FTB Backups]: Compressing 368 files...
-[01:07:46] [File IO Thread/INFO] [FTB Backups]: Done compressing in 00:03 seconds (62.9MB)!
-[01:07:46] [File IO Thread/INFO] [FTB Backups]: Created /home/server/./backups/2020-09-22-01-07-42.zip from /home/server/./world
-[01:07:46] [File IO Thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Server backup done in 00:03! (62.9MB)
